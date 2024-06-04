@@ -2,7 +2,6 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:zepto_clone/core/design_system.dart';
 
 class CustomSilverAppBar extends StatelessWidget {

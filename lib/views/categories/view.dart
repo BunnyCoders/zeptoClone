@@ -1,10 +1,7 @@
-import 'dart:convert';
 import 'package:zepto_clone/data.dart';
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:zepto_clone/core/router.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:zepto_clone/core/design_system.dart';
 import 'package:zepto_clone/global_components/skeleton.dart';
 import 'package:zepto_clone/global_components/custom_appbar.dart';

@@ -1,8 +1,6 @@
-import 'dart:io';
 
 import 'package:zepto_clone/core/router.dart';
 import 'package:zepto_clone/global_blocs/internet_connectivity_bloc.dart';
-import 'package:zepto_clone/views/login/view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

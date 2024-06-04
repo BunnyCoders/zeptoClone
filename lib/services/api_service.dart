@@ -4,7 +4,6 @@ import 'dart:convert';
 import 'package:http/http.dart';
 import 'package:http/http.dart' as http;
 import 'package:zepto_clone/core/locator.dart';
-import 'package:zepto_clone/core/locator.dart';
 import 'package:zepto_clone/core/constants.dart';
 import 'package:zepto_clone/global_models/account_data.dart';
 

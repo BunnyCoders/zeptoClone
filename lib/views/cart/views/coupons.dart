@@ -1,4 +1,3 @@
-import 'package:flutter_svg/svg.dart';
 import 'package:flutter/material.dart';
 import 'package:zepto_clone/data.dart';
 import 'package:zepto_clone/core/router.dart';
@@ -6,8 +5,6 @@ import 'package:dotted_line/dotted_line.dart';
 import 'package:ticket_widget/ticket_widget.dart';
 import 'package:zepto_clone/core/design_system.dart';
 import 'package:zepto_clone/global_components/button.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:zepto_clone/global_components/input_field.dart';
 import 'package:zepto_clone/global_components/custom_appbar.dart';
 import 'package:zepto_clone/global_components/page_scaffold.dart';
 // ignore_for_file: prefer_const_constructors
