@@ -1,16 +1,42 @@
-# zepto_clone
+Zepto 10 minutes Deleivery App 
+-------------  
 
-A new Flutter project.
+## Screenshots  
 
-## Getting Started
+<p float="left">
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" /> 
+  <img src="screenshots/3.png" width="200" />
+  <img src="screenshots/4.png" width="200" />
+  <img src="screenshots/5.png" width="200" /> 
+  <img src="screenshots/6.png" width="200" />
+  <img src="screenshots/7.png" width="200" />
+  <img src="screenshots/8.png" width="200" /> 
+  <img src="screenshots/9.png" width="200" />
+  <img src="screenshots/10.png" width="200" />
+  <img src="screenshots/11.png" width="200" />
+  <img src="screenshots/12.png" width="200" />
+  <img src="screenshots/13.png" width="200" />
+  <img src="screenshots/14.png" width="200" />
+  <img src="screenshots/15.png" width="200" />
+</p>
 
-This project is a starting point for a Flutter application.
+-------------  
 
-A few resources to get you started if this is your first Flutter project:
+## Screens  
+- Splash Screen  
+- Welcome Screen
+- Login Screen
+- Home Screen 
+- Categories Screen (Explore)  
+- Fiesta Screen
+- Deals Screen  
+- My Cart Screen  
+- Apply Coupon  
+- Settings Screen 
+- Story Screen 
+- Orders Screen   
+- Order Detail Screen  
+- Profile Screen
+- Address Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
